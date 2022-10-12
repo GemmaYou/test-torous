@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/test-torous/static/css/main.eb87ce73.chunk.css",
-    "main.js": "/test-torous/static/js/main.a12a6e51.chunk.js",
-    "main.js.map": "/test-torous/static/js/main.a12a6e51.chunk.js.map",
+    "main.js": "/test-torous/static/js/main.07a4d1a6.chunk.js",
+    "main.js.map": "/test-torous/static/js/main.07a4d1a6.chunk.js.map",
     "runtime-main.js": "/test-torous/static/js/runtime-main.ec409c61.js",
     "runtime-main.js.map": "/test-torous/static/js/runtime-main.ec409c61.js.map",
     "static/js/2.0be6b2db.chunk.js": "/test-torous/static/js/2.0be6b2db.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.ec409c61.js",
     "static/js/2.0be6b2db.chunk.js",
     "static/css/main.eb87ce73.chunk.css",
-    "static/js/main.a12a6e51.chunk.js"
+    "static/js/main.07a4d1a6.chunk.js"
   ]
 }
