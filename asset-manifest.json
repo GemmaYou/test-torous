@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/test-torous/static/css/main.e17bd902.chunk.css",
-    "main.js": "/test-torous/static/js/main.9c4ab65e.chunk.js",
-    "main.js.map": "/test-torous/static/js/main.9c4ab65e.chunk.js.map",
+    "main.js": "/test-torous/static/js/main.0600247a.chunk.js",
+    "main.js.map": "/test-torous/static/js/main.0600247a.chunk.js.map",
     "runtime-main.js": "/test-torous/static/js/runtime-main.ec409c61.js",
     "runtime-main.js.map": "/test-torous/static/js/runtime-main.ec409c61.js.map",
-    "static/js/2.0e179685.chunk.js": "/test-torous/static/js/2.0e179685.chunk.js",
-    "static/js/2.0e179685.chunk.js.map": "/test-torous/static/js/2.0e179685.chunk.js.map",
+    "static/js/2.e51aa07b.chunk.js": "/test-torous/static/js/2.e51aa07b.chunk.js",
+    "static/js/2.e51aa07b.chunk.js.map": "/test-torous/static/js/2.e51aa07b.chunk.js.map",
     "static/js/3.4c078a6d.chunk.js": "/test-torous/static/js/3.4c078a6d.chunk.js",
     "static/js/3.4c078a6d.chunk.js.map": "/test-torous/static/js/3.4c078a6d.chunk.js.map",
     "index.html": "/test-torous/index.html",
     "static/css/main.e17bd902.chunk.css.map": "/test-torous/static/css/main.e17bd902.chunk.css.map",
-    "static/js/2.0e179685.chunk.js.LICENSE.txt": "/test-torous/static/js/2.0e179685.chunk.js.LICENSE.txt"
+    "static/js/2.e51aa07b.chunk.js.LICENSE.txt": "/test-torous/static/js/2.e51aa07b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.ec409c61.js",
-    "static/js/2.0e179685.chunk.js",
+    "static/js/2.e51aa07b.chunk.js",
     "static/css/main.e17bd902.chunk.css",
-    "static/js/main.9c4ab65e.chunk.js"
+    "static/js/main.0600247a.chunk.js"
   ]
 }
